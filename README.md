@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **JavaScript, HTML, CSS, SASS, Tailwind**
 
-- 📫 How to reach me **coskun.dincer2014@gmail.com**
+- 📫 How to reach me **tahircoskunerdincer@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
