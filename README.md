@@ -7,6 +7,8 @@
 
 - 📫 How to reach me **tahircoskunerdincer@gmail.com**
 
+- I try to follow DRY a lot, even though most of codes I' m publishing here are only to practice. ( For example, mobile ' responsiveness ' ' ignored ' in some of the codes, because their purpose are me to comprehend the concept. )
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/tahircdincer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tahircdincer" height="30" width="40" /></a>
