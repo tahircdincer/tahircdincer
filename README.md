@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tahir C. Dinçer</h1>
 <h3 align="center">A passionate frontend developer from Türkiye.</h3>
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **ReactJS, Python**
 
 - 💬 Ask me about **JavaScript, HTML, CSS, SASS, Tailwind**
 
